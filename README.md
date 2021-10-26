@@ -1,2 +1,2 @@
 # :pill: :envelope_with_arrow: Molecular Message Passing
-Message passing graph neural network for analysis of molecular graphs
+Self-attention based message passing graph neural network for analysis of molecular graphs
